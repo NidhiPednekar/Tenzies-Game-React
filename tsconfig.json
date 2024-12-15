@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,           
+    "jsx": "react-jsx",      
+    "checkJs": false           
+  },
+  "include": [
+    "src/**/*",               
+    "**/*.jsx"               
+  ],
+  "exclude": [
+    "node_modules"            
+  ]
+}
